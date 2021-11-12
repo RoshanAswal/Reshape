@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &178687743248380447
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.106572725
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.61847055
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.76050895
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.16662155
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 22.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 182.733
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695835540208184014, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 78.786
+      objectReference: {fileID: 0}
+    - target: {fileID: 6116403488377995854, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_Name
+      value: Spot Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566408069812538249, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04705882
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566408069812538249, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566408069812538249, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_Color.r
+      value: 0.14085531
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566408069812538249, guid: 56109b99d5581f441b1de182185906fb, type: 3}
+      propertyPath: m_SpotAngle
+      value: 60.935623
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 56109b99d5581f441b1de182185906fb, type: 3}
